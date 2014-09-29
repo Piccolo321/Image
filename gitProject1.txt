@@ -1,3 +1,0 @@
-This is the first test for git.
-
-I add this line for no reason.
